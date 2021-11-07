@@ -3,3 +3,5 @@ Make some changes to this file!
 HAHAHAH IM MAKING CHANGES
 
 WHAT"S UP CHIEF
+
+This is a change in branch2
